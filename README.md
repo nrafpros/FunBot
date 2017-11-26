@@ -1,0 +1,2 @@
+# FunBot
+a fun bot
